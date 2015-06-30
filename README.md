@@ -1,2 +1,2 @@
 # hello
-how to make simple javav programming 
+how to make simple C++ programming 
